@@ -90,7 +90,7 @@ void Graph::topologicalSort()
 int main() 
 { 
     // Create a graph given in the above diagram 
-    Graph g(7); 
+    Graph g(10); 
     g.addEdge(5, 2); 
     g.addEdge(5, 0); 
     g.addEdge(4, 0); 
@@ -103,4 +103,4 @@ int main()
     g.topologicalSort(); 
   
     return 0; 
-} 
+}
