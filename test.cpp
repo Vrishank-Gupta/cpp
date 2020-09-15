@@ -1,5 +1,6 @@
 #include<iostream> 
 #include <list> 
+#include<vector>
 #include <stack> 
 using namespace std; 
   
