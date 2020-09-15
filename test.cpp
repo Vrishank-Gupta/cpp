@@ -8,6 +8,7 @@ using namespace std;
 //Another feature added
 
 //Need to practice rebase now
+//Rebase 2
   
 // Class to represent a graph 
 class Graph 
