@@ -2,6 +2,8 @@
 #include <list> 
 #include <stack> 
 using namespace std; 
+
+//Git Feature branch added
   
 // Class to represent a graph 
 class Graph 
@@ -57,6 +59,7 @@ int v, bool visited[],
     // Push current vertex to stack  
 // which stores result 
     Stack.push(v); 
+    cout<<endl;
 } 
   
 // The function to do Topological Sort. 
